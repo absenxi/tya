@@ -1,0 +1,8 @@
+{
+  "name": "Remix Absensi SMKS Nusantara 1 Ciputat v12 github + supabase",
+  "description": "Aplikasi Absensi Siswa SMKS Nusantara 1 Ciputat",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
